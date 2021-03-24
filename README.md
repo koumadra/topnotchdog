@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @topnotchdog;
+- 👀 I’m interested in C#, Java and SQL;
+- 🌱 I’m currently learning Python;
